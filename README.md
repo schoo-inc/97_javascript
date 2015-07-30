@@ -1,3 +1,8 @@
 # course_97
-https://schoo.jp/course/97 のサンプルファイルです。
-※ 授業収録時に使用したファイルは masterブランチtag1.0.0になります！
+以下からサンプルファイルをダウンロードして下さい。
+
+・授業収録時に使用したファイル
+https://github.com/schoo-inc/course_97/tree/1.0.0
+
+・授業後更新されたファイル
+xxxx
